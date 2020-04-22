@@ -1,0 +1,10 @@
+C:\Users\new881386\source\repos\TestDraw\TestDraw\bin\Debug\TestDraw.exe.config
+C:\Users\new881386\source\repos\TestDraw\TestDraw\bin\Debug\TestDraw.exe
+C:\Users\new881386\source\repos\TestDraw\TestDraw\bin\Debug\TestDraw.pdb
+C:\Users\new881386\source\repos\TestDraw\TestDraw\obj\Debug\TestDraw.csprojAssemblyReference.cache
+C:\Users\new881386\source\repos\TestDraw\TestDraw\obj\Debug\TestDraw.Properties.Resources.resources
+C:\Users\new881386\source\repos\TestDraw\TestDraw\obj\Debug\TestDraw.csproj.GenerateResource.cache
+C:\Users\new881386\source\repos\TestDraw\TestDraw\obj\Debug\TestDraw.csproj.CoreCompileInputs.cache
+C:\Users\new881386\source\repos\TestDraw\TestDraw\obj\Debug\TestDraw.exe
+C:\Users\new881386\source\repos\TestDraw\TestDraw\obj\Debug\TestDraw.pdb
+C:\Users\new881386\source\repos\TestDraw\TestDraw\obj\Debug\TestDraw.DrawLine.resources
